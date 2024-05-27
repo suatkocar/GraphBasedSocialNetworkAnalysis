@@ -1,6 +1,6 @@
 # Graph Based Social Network Analysis
 
-![Social Network Graph](screenshots/social-network-graph.jpg)
+![Social Network Graph](screenshots/social-network-graph.gif)
 
 ## Project Overview
 
