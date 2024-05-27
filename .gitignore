@@ -1,0 +1,17 @@
+bin/
+obj/
+.vscode/
+*.user
+*.suo
+*.cache
+*.ilk
+*.log
+*.pdb
+*.mdb
+*.opendb
+*.class
+*.swp
+*.DS_Store
+*.docx
+*.webm
+*.txt
