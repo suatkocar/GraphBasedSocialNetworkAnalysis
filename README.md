@@ -1,5 +1,5 @@
 # Graph Based Social Network Analysis 
-# Console Application
+## Console Application
 
 ![Social Network Graph](screenshots/social-network-graph.gif)
 
